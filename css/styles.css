@@ -12,20 +12,33 @@ body {
 #tienpic {
   float: right;
   border: 2px solid blue;
-  margin: 5px;
+  margin: 10px;
   padding: 2px;
 
 }
 
 .links a {
   padding-right: 10px;
-}
 
+}
 .projectlist li {
   font-weight: bold;
 }
 
+.toplist {
+  font-weight: bold;
+  font-size: 20px;
+}
+
 hr {
   border-width: medium;
+
+}
+
+.sidebar {
+  float: right;
+  border: 2px solid green;
+  padding: 2px;
+  margin: 10px;
 
 }
