@@ -5,6 +5,7 @@
 
 body {
   background-color: #b3e6ff;
+  font-family: sans-serif;
 
 }
 
@@ -18,4 +19,13 @@ body {
 
 .links a {
   padding-right: 10px;
+}
+
+.projectlist li {
+  font-weight: bold;
+}
+
+hr {
+  border-width: medium;
+
 }
