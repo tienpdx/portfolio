@@ -18,6 +18,10 @@ body {
   background-color: pink;
 }
 
+.jumbotron {
+  background-color: #ffb3bf;
+}
+
 .links a {
   padding-right: 10px;
 
@@ -30,6 +34,7 @@ body {
 
 .projectlist li {
   font-weight: bold;
+  color: #0099e6;
 }
 
 .toplist {
@@ -44,8 +49,8 @@ hr {
 
 .sidebar {
   float: right;
-  border: 2px solid green;
-  padding: 2px;
+  border: 2px solid blue;
+  padding: 8px;
   margin: 10px;
 
 }
