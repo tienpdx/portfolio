@@ -1,11 +1,8 @@
 
-
-
-
-
 body {
   background-color: #b3e6ff;
   font-family: sans-serif;
+  font-size: 16px;
 
 }
 
@@ -17,17 +14,27 @@ body {
 
 }
 
+.well {
+  background-color: pink;
+}
+
 .links a {
   padding-right: 10px;
 
 }
+
+.projectlist {
+  margin: 10px;
+  padding: 10px;
+}
+
 .projectlist li {
   font-weight: bold;
 }
 
 .toplist {
   font-weight: bold;
-  font-size: 20px;
+  font-size: 24px;
 }
 
 hr {
