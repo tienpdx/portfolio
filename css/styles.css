@@ -8,8 +8,8 @@ body {
 
 #tienpic {
   float: right;
-  border: 2px solid blue;
-  margin: 10px;
+  border: 2px solid #0099e6;
+  margin: 20px;
   padding: 2px;
 
 }
@@ -20,6 +20,18 @@ body {
 
 .jumbotron {
   background-color: #ffb3bf;
+}
+
+.col-md-4 {
+  font-size: 20px;
+}
+
+.col-md-4 li {
+  font-size: 16px;
+}
+
+.btn btn-default {
+  background-color: yellow;
 }
 
 .links a {
@@ -34,6 +46,7 @@ body {
 
 .projectlist li {
   font-weight: bold;
+  font-size: 18px;
   color: #0099e6;
 }
 
@@ -50,7 +63,7 @@ hr {
 .sidebar {
   float: right;
   border: 2px solid blue;
-  padding: 8px;
+  padding: 24px;
   margin: 10px;
 
 }

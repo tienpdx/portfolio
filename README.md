@@ -2,11 +2,11 @@
 
 #### January 11, 2019
 
-#### By **Tien all by herself**
+#### By **Tien Le**
 
 ## Description
 
-A webpage of Tien, her projects at Epicodus, and her interests.
+A webpage about Tien, her projects at Epicodus, and her interests.
 
 ## Setup/Installation Requirements
 
@@ -16,3 +16,7 @@ Requires a web browser that can open HTML5 (eg. Chrome, Firefox).
 
 * HTML
 * CSS
+
+## Copyright Information
+
+This is open and free to use by anyone
