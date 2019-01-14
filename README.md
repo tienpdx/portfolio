@@ -6,7 +6,7 @@
 
 ## Description
 
-A webpage about Tien, her projects at Epicodus, and her interests.
+A webpage about Tien, her projects at Epicodus, and her interests. Find it at http://tienpdx.github.io/portfolio/
 
 ## Setup/Installation Requirements
 
